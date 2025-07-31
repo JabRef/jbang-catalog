@@ -8,6 +8,10 @@
     "jabsrv": {
       "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabSrvLauncher.java",
       "java-agents": []
+    },
+    "jabls": {
+      "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabLsLauncher.java",
+      "java-agents": []
     }
   },
   "templates": {}
