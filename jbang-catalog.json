@@ -5,12 +5,12 @@
       "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabKitLauncher.java",
       "java-agents": []
     },
-    "jabsrv": {
-      "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabSrvLauncher.java",
-      "java-agents": []
-    },
     "jabls": {
       "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabLsLauncher.java",
+      "java-agents": []
+    },
+    "jabsrv": {
+      "script-ref": "https://github.com/JabRef/jabref/blob/main/.jbang/JabSrvLauncher.java",
       "java-agents": []
     }
   },
